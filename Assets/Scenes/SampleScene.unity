@@ -619,11 +619,11 @@ MonoBehaviour:
   depth: 20
   cellPrefab: {fileID: 7554740747465540861, guid: 250b14d44dd1fdb4195e4ac7482f8a18, type: 3}
   mapImage: {fileID: 685344249}
-  entropyGraph: {fileID: 0}
+  entropyGraph: {fileID: 1943221064}
   maxGraphPoints: 50
   graphWidth: 10
   graphHeight: 2
-  entropyText: {fileID: 0}
+  entropyText: {fileID: 252137053}
   updateInterval: 0.5
 --- !u!4 &715286879
 Transform:
@@ -836,7 +836,7 @@ LineRenderer:
   - {x: 0, y: 0, z: 1}
   m_Parameters:
     serializedVersion: 3
-    widthMultiplier: 1
+    widthMultiplier: 0.1
     widthCurve:
       serializedVersion: 2
       m_Curve:
